@@ -1,1 +1,1 @@
-// JavaScript del juego (bundle generado)
+document.getElementById('app').innerText = '¡Guardianes del Buen Rollo listo!';
